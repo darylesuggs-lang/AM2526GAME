@@ -1,42 +1,48 @@
 body{
     margin: 0px;
-    background-color: #202020;
+    font-family: 'Michroma', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    width: 100vw;
+    height: 100vh;
+    background-color: rgba(0, 0, 0, 0.75);
+    overflow: hidden;
 }
 header{
-    border-bottom: 2px solid lightgreen;
+    border-bottom: 2px solid rgba(20, 219, 96, 0.8);
     padding: 15px; 
     font-size: 3rem;
     text-align: center;
-    background-color: #508050;
+    background-color: rgba(100, 175, 100, 0.75);
 }
 header h1{
     margin: 0px;
 }
-#health-bar{
-    border: 10px solid white;
+#healthbar{
+    border: 10px solid rgba(20, 219, 96, 0.8);
     margin: 50px;
-    background-color: red;
+    background-color: #b00;
+    height: calc(5% + 30px);
     width: 50%;
     justify-self: center;
 }
-#inv-box{
+#healthbarFill{
+    justify-self: end;
+    height: 100%;
+    width: 100%;/* you know the deal, change this to adjust the health */
+    background-color: #0d0;
+}
+#invBox{
     margin-top: 150px;
     display:flex;
     justify-content: space-around;
     
 }
-#placeholder1{
-    background-color: red;
-    width:150px;
-    height:150px;
+.itemBox p{
+    text-align: center;
+    color: white;
+    margin: 10px 0px;
+    font-size: 2rem;
 }
-#placeholder2{
-    background-color: #00ff00;
-    width:150px;
-    height:150px;
-}
-#placeholder3{
-    background-color: #0000ff;
-    width:150px;
-    height:150px;
+.item{
+    width: 200px;
+    height: 200px;
 }

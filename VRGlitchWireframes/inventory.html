@@ -3,16 +3,26 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/css2?family=Michroma&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="inventory.css">
     <title>Inventory</title>
 </head>
 <body>
     <header><h1>Inventory</h1></header>
-    <div id="health-bar"><p>healthbar</p></div>
-    <div id="inv-box">
-        <div id="placeholder1"></div>
-        <div id="placeholder2"></div>
-        <div id="placeholder3"></div>
+    <div id="healthbar"><div id="healthbarFill"></div></div>
+    <div id="invBox">
+        <div class="itemBox">
+            <img src="../VRGlitchItemSprites/lasagna_item.png" class="item"></img>
+            <p>X2</p>  <!-- this changes based on how many lasagna you have -->
+        </div>
+        <div class="itemBox">
+            <img src="../VRGlitchItemSprites/donut_item.png" class="item"></img>
+            <p>X2</p> <!-- this changes based on how many donut you have -->
+        </div>
+        <div class="itemBox">
+            <img src="../VRGlitchItemSprites/key_item.png" class="item"></img>
+            <p>X2</p> <!-- you get the point bruh -->
+        </div>
     </div>
 </body>
 </html>
