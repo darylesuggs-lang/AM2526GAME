@@ -1,11 +1,9 @@
-let engineModule;
 let boxiModule;
 let inventoryModule;
 let friendshipModule;
 
 try {
     if (typeof require === 'function') {
-        engineModule = require('./dkpythgameengine');
         boxiModule = require('./dkpythboxi');
         inventoryModule = require('./dkpythinventory');
         friendshipModule = require('./dkpythfriendshipbar');
@@ -15,10 +13,6 @@ try {
 }
 
 function restartGame() {
-    if (engineModule && typeof engineModule.restartGame === 'function') {
-        return engineModule.restartGame();
-    }
-
     if (boxiModule && typeof boxiModule.resetBoxiState === 'function') {
         boxiModule.resetBoxiState();
     } else if (typeof resetBoxiState === 'function') {
