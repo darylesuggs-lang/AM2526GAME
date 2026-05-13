@@ -1,0 +1,32 @@
+body{
+    background-color: grey;
+    margin: 0px;
+}
+h1{
+    font-size: 6.5rem;
+    text-align: center;
+    font-family: "Audiowide", sans-serif;
+    text-shadow: 5px 5px 5px rgb(20, 219, 96);
+    color: whitesmoke;
+    margin-top: 8%;
+}
+h2{
+    font-family:'Michroma', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: whitesmoke;
+    font-size: 1.25rem;
+}
+.button{
+    border: 10px solid rgba(20, 219, 96, 0.8);
+    background-color: rgba(0, 0, 0, 0.75);
+    width: 35%;
+    height: 10%;
+    margin: 2%;
+    text-align: center;
+    justify-self: center;
+    align-items: center;
+    border-radius: 3rem;
+}
+.button:hover{
+    background-color: rgba(100, 125, 100, 0.7);
+    cursor: pointer;
+}
