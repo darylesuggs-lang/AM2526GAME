@@ -1,46 +1,194 @@
 {
     "scenes": [
         {
-            "scene": "1",
-            "choices": [
-                        {
-                            "choiceNumber": 1,
-                            "text": "19XX",
-                            "nextScene": "2"
-                        },
-                        {
-                            "choiceNumber": 2,
-                            "text": "20XX",
-                            "nextScene": "2"
-                        },
-                        {
-                            "choiceNumber": 3,
-                            "text": "21XX",
-                            "nextScene": "2"
-                        }
+            "id": "1",
+            "text": [
+                "Agent 1: Oh, they're finally awake.",
+                "Boxi: Huh… Where am I…?",
+                "Agent 2: Boxi, what do you remember from before all of this?",
+                "Boxi: Well…"
+            ],
+            "options": [
+                {
+                    "text": "Next",
+                    "nextScene": "2"
+                }
             ]
         },
         {
-            "scene": "2",
-            "choices": []
+            "id": "2",
+            "text": [
+                "Boxi: I remember driving. I was on my way to work… and I remember a… car coming towards me…",
+                "…"
+            ],
+            "options": [
+                {
+                    "text": "Next",
+                    "nextScene": "3"
+                }
+            ]
         },
         {
-            "scene": "3",
-            "choices": []
+            "id": "3",
+            "text": [
+                "Agent 2: Is that it?",
+                "Boxi: After that, I remember everything going black…",
+                "Agent 1: Checks out with their transcript here, it says they were in a nearly fatal car crash.",
+                "Agent 2: Boxi, what year do you remember it being?"
+            ],
+            "options": [
+                {
+                    "text": "19XX",
+                    "nextScene": "4"
+                },
+                {
+                    "text": "20XX",
+                    "nextScene": "4"
+                },
+                {
+                    "text": "21XX",
+                    "nextScene": "4"
+                }
+            ]
         },
         {
-            "scene": "4",
-            "choices": [
-                        {
-                            "choiceNumber": 1,
-                            "text": "Take the job",
-                            "nextScene": "4a"
-                        },
-                        {
-                            "choiceNumber": 2,
-                            "text": "Find another",
-                            "nextScene": "4b"
-                        }
+            "id": "4",
+            "text": [
+                "Agent 1: That was 2 years ago.",
+                "Boxi: Have I been in a coma for 2 years!?",
+                "Agent 2: It seems so.",
+                "Boxi: I can't believe this… what about my job?",
+                "Agent 1: That is the reason why we are here, actually.",
+                "Agent 1: The current leader realized that your job was quite important and has replaced you.",
+                "Agent 1: However, he has left you the option of taking a new position.",
+                "Agent 1: You may take it, or find a new job elsewhere. He has stated that your gap in history will be erased and not affect your transcript.",
+                "Boxi: Who…?",
+                "Agent 1: Oh, yes. I forgot that his leadership is new to you. He was inaugurated not too long ago.",
+                "Agent 1: His name is Stewie (Family Guy).",
+                "Boxi: Stewie…? I don't ever remember a Stewie.",
+                "Agent 2: No, his name is Stewie (Family Guy).",
+                "Boxi: Is the subtitle really that important?",
+                "Agent 1: Yes. He demands all those in government positions refer to him as Stewie (Family Guy).",
+                "Boxi: I see…",
+                "Agent 2: For your position, we will give you a moment to decide whether you take it or not. We hope that our stay here was not too unwelcome.",
+                "…",
+                "Boxi: Huh, this is a big decision it seems I have to make here.",
+                "Boxi: Either I start working under a guy I've never heard of before, or I have to go job hunting again.",
+                "Boxi: What will I choose…?"
+            ],
+            "options": [
+                {
+                    "text": "Take the job",
+                    "nextScene": "4a"
+                },
+                {
+                    "text": "Find another",
+                    "nextScene": "4b"
+                }
+            ]
+        },
+        {
+            "id": "4a",
+            "text": [
+                "Agent 1: Good choice, Boxi–",
+                "Agent 2: Let me get it.",
+                "Agent 2: Hello?",
+                "Agent 2: Oh. Yes. Of course. I see.",
+                "Agent 2: Yes, of course, sir. Goodbye.",
+                "Agent 2: …It was Stewie (Family Guy). He told me that he got tired of waiting for you to wake up and found a new employee to replace you.",
+                "Agent 2: We apologize for the inconvenience, Boxi.",
+                "Boxi: Oh. I see.",
+                "Boxi: Well, I guess I'll just go off, then…"
+            ],
+            "options": [
+                {
+                    "text": "Next",
+                    "nextScene": "5"
+                }
+            ]
+        },
+        {
+            "id": "4b",
+            "text": [
+                "Boxi: Well, I don't know the guy, or his motives. For all I know, I could be working for someone looking to destroy Planet X…",
+                "Boxi: I guess I'll just see myself out of the hospital, then.",
+                "Agent 1: We understand.",
+                "Agent 1: Thank you for your time, Boxi."
+            ],
+            "options": [
+                {
+                    "text": "Next",
+                    "nextScene": "5"
+                }
+            ]
+        },
+        {
+            "id": "5",
+            "text": [
+                "Boxi: At least this place hasn't changed a lot. Even if it feels like I was only here yesterday…",
+                "Boxi: I should examine it a bit before going inside, though. Just to make sure."
+            ],
+            "options": [
+                {
+                    "text": "Interact with building",
+                    "nextScene": "5a"
+                },
+                {
+                    "text": "Interact with paper on door",
+                    "nextScene": "5b"
+                },
+                {
+                    "text": "Interact with random guy",
+                    "nextScene": "5c"
+                },
+                {
+                    "text": "Enter the door",
+                    "nextScene": "6"
+                }
+            ]
+        },
+        {
+            "id": "5a",
+            "text": [
+                "Boxi: Yup, pretty much looks like the Drunken Clam I know.",
+                "Boxi: Nothing super different about it."
+            ],
+            "options": [
+                {
+                    "text": "Next",
+                    "nextScene": "5"
+                }
+            ]
+        },
+        {
+            "id": "5b",
+            "text": [
+                "Boxi: Huh. There's a piece of paper hung up on the front of the door here.",
+                "\"ABSOLUTELY NO FIGHTING UNDER ANY CIRCUMSTANCES WITHIN THE CONFINEMENTS OF THIS ESTABLISHMENT\"",
+                "Boxi: Well, I don't imagine I'll be getting into any bar fights today."
+            ],
+            "options": [
+                {
+                    "text": "Next",
+                    "nextScene": "5"
+                }
+            ]
+        },
+        {
+            "id": "5c",
+            "text": [
+                "Random Guy: Yo. Haven't seen you around these parts.",
+                "Boxi: Uh, that's because I…",
+                "Boxi: You know what, nevermind.",
+                "Random Guy: Well, you seem pretty chill.",
+                "Random Guy: Here, I'll give you this.",
+                "Boxi: Uh, thank you…?"
+            ],
+            "options": [
+                {
+                    "text": "Next",
+                    "nextScene": "5"
+                }
             ]
         }
     ]
