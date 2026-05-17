@@ -18,7 +18,6 @@ fetch("scenes.json")
       // create text
       const textElement = document.createElement("p");
 
-      
       textElement.innerHTML = scene.text.join("<br><br>");
 
       // make text fit better
