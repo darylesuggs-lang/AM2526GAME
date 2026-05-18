@@ -1,0 +1,40 @@
+{
+    "scenes": [
+        {
+            "scene": "1",
+            "background": "boxi_hospital.png"
+        },
+        {
+            "scene": "1mid1 ONLY IF BACKGROUND NEEDS TO BE CHANGED MIDWAY THROUGH A SCENE",
+            "background": "bg1mid1.jpg"
+        },
+        {
+            "scene": "1a ONLY IF BACKGROUND NEEDS TO BE CHANGED AFTER A CHOICE",
+            "background": "bg1a.jpg"
+        },
+        {
+            "scene": "2",
+            "background": "insidecar.jpg"
+        },
+        {
+            "scene": "3",
+            "background": "boxi_hospital.png"
+        },
+        {
+            "scene": "4",
+            "background": "boxi_hospital.png" 
+        },
+        {
+            "scene": "5",
+            "background": "dunkenclamoutside.jpg"
+        },
+        {
+            "scene": "6",
+            "background": "dunkenclaminside.png"
+        },
+        {
+            "scene": "6mid",
+            "background": "drunkenclaminsidewithbrian.jpg"
+        }
+    ]
+}
