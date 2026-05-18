@@ -6,14 +6,6 @@
             "characters": [2, 9, 10]
         },
         {
-            "scene": "1mid1 ONLY IF BACKGROUND NEEDS TO BE CHANGED MIDWAY THROUGH A SCENE",
-            "background": "bg1mid1.jpg"
-        },
-        {
-            "scene": "1a ONLY IF BACKGROUND NEEDS TO BE CHANGED AFTER A CHOICE",
-            "background": "bg1a.jpg"
-        },
-        {
             "scene": "2",
             "background": "insidecar.jpg",
             "characters": [2]
@@ -31,64 +23,72 @@
         {
             "scene": "5",
             "background": "drunkenclamoutside.jpg",
-            "characters": [2]
-        },
-        {
-            "scene": "5c",
-            "background": "drunkenclamoutside.jpg",
             "characters": [2, 12]
         },
         {
             "scene": "6",
-            "background": "drunkenclaminside.png"
+            "background": "drunkenclaminside.png",
+            "characters": [2, 13]
         },
         {
             "scene": "6mid",
-            "background": "drunkenclaminsidewithbrian.jpg"
+            "background": "drunkenclaminsidewithbrian.jpg",
+            "characters": [2, 3]
         },
         {
             "scene": "7",
-            "background": "drunkenclaminsidewithbrian.jpg"
+            "background": "drunkenclaminsidewithbrian.jpg",
+            "characters": [2, 3]
         },
         {
             "scene": "8",
-            "background": "drunkenclaminsidewithbrian.jpg"
+            "background": "drunkenclaminsidewithbrian.jpg",
+            "characters": [2, 3]
         },
         {
             "scene": "9",
-            "background": "drunkenclaminsidewithbrian.jpg"
+            "background": "drunkenclaminsidewithbrian.jpg",
+            "characters": [2, 3]
         },
         {
             "scene": "10",
-            "background": "inauguration.jpg"
+            "background": "inauguration.jpg",
+            "characters": [3, 1]
         },
         {
             "scene": "11",
-            "background": "drunkenclaminsidewithbrian.jpg"
+            "background": "drunkenclaminsidewithbrian.jpg",
+            "characters": [3]
         },
         {
             "scene": "12",
-            "background": "drunkenclaminsidewithbrian.jpg"
+            "background": "drunkenclaminsidewithbrian.jpg",
+            "characters": [2, 3]
         },
         {
             "scene": "13",
-            "background": "drunkenclaminsidewithbrian.jpg"
+            "background": "drunkenclaminsidewithbrian.jpg",
+            "characters": [2, 3]
         },
         {
             "scene": "14",
-            "background": "drunkenclaminside.png"
+            "background": "drunkenclaminside.png",
+            "characters": [3]
         },
         {
             "scene": "15",
-            "background": "drunkenclaminside.png"
+            "background": "drunkenclaminside.png",
+            "characters": [3]
         },
         {
             "scene": "16",
-            "background": "drunkenclaminside.png"
+            "background": "drunkenclaminside.png",
+            "characters": [3]
         },
         {
             "scene": "17",
-            "background": "drunkenclaminside.png"
+            "background": "drunkenclaminside.png",
+            "characters": [3]
         },
         {
             "scene": "18",
