@@ -26,15 +26,67 @@
         },
         {
             "scene": "5",
-            "background": "dunkenclamoutside.jpg"
+            "background": "drunkenclamoutside.jpg"
         },
         {
             "scene": "6",
-            "background": "dunkenclaminside.png"
+            "background": "drunkenclaminside.png"
         },
         {
             "scene": "6mid",
             "background": "drunkenclaminsidewithbrian.jpg"
+        },
+        {
+            "scene": "7",
+            "background": "drunkenclaminsidewithbrian.jpg"
+        },
+        {
+            "scene": "8",
+            "background": "drunkenclaminsidewithbrian.jpg"
+        },
+        {
+            "scene": "9",
+            "background": "drunkenclaminsidewithbrian.jpg"
+        },
+        {
+            "scene": "10",
+            "background": ""
+        },
+        {
+            "scene": "11",
+            "background": "drunkenclaminsidewithbrian.jpg"
+        },
+        {
+            "scene": "12",
+            "background": "drunkenclaminsidewithbrian.jpg"
+        },
+        {
+            "scene": "13",
+            "background": "drunkenclaminsidewithbrian.jpg"
+        },
+        {
+            "scene": "14",
+            "background": "drunkenclaminside.png"
+        },
+        {
+            "scene": "15",
+            "background": "drunkenclaminside.png"
+        },
+        {
+            "scene": "16",
+            "background": "drunkenclaminside.png"
+        },
+        {
+            "scene": "17",
+            "background": "drunkenclaminside.png"
+        },
+        {
+            "scene": "18",
+            "background": "drunkenclaminside.png"
+        },
+        {
+            "scene": "19",
+            "background": "drunkenclamoutside.jpg"
         }
     ]
 }
