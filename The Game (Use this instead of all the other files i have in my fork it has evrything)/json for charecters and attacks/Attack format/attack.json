@@ -1,0 +1,108 @@
+
+[
+{
+	"id": "Boxi Bash",
+	"power": 2,
+	"spread": false,
+	"heal": false,
+	"recoil": 0
+},
+{
+	"id": "Fire Wand",
+"power": 5,
+"spread": false,
+"heal": false,
+"recoil": 2
+},
+{
+    "id": "Martini Drink",
+"power": 0,
+"spread": true,
+"heal": true,
+"recoil": 0
+},
+{
+    "id": "Charge",
+"power": 2,
+"spread": false,
+"heal": false,
+"recoil": 0
+},
+{
+    "id": "Triple Smash",
+"power": 2,
+"spread": true,
+"heal": false,
+"recoil": 0
+},
+{
+    "id": "Batter Barrage",
+"power": 3,
+"spread": false,
+"heal": false,
+"recoil": 0
+},
+{
+    "id": "B Crush",
+"power": 2,
+"spread": false,
+"heal": false,
+"recoil": 0
+},
+{
+    "id": "B Heal",
+"power": 0,
+"spread": false,
+"heal": true,
+"recoil": 0
+},
+{
+    "id": " hor hor hor hor",
+"power": 2,
+"spread": true,
+"heal": false,
+"recoil": 0
+},
+{
+    "id": "Jumpscare ",
+"power": 5,
+"spread": true,
+"heal": false,
+"recoil": 2
+},
+{
+    "id": "Nothin barrage ",
+"power": 2,
+"spread": true,
+"heal": true,
+"recoil": 0
+},
+{
+    "id": "Tickle",
+"power": 1,
+"spread": false,
+"heal": false,
+"recoil": 0
+},
+{
+    "id": "Spin ",
+"power": 2,
+"spread": true,
+"heal": false,
+"recoil": 0
+},
+{
+    "id": "Find Circumference",
+"power": 3,
+"spread": false,
+"heal": false,
+"recoil": 0
+},
+{
+    "id": "Fire Ball",
+"power": 5,
+"spread": true,
+"heal": false,
+"recoil": 2
+}
+]
