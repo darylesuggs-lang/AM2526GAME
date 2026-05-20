@@ -1,0 +1,1221 @@
+{
+    "scenes": [
+        {
+            "id": "1",
+            "text": [
+                "Agent 1: Oh, they're finally awake.",
+                "Boxi: Huh… Where am I…?",
+                "Agent 2: Boxi, what do you remember from before all of this?",
+                "Boxi: Well…"
+            ],
+            "options": [
+                {
+                    "text": "NEXT",
+                    "nextScene": "2"
+                }
+            ]
+        },
+        {
+            "id": "2",
+            "text": [
+                "Boxi: I remember driving. I was on my way to work… and I remember a… car coming towards me…",
+                "…"
+            ],
+            "options": [
+                {
+                    "text": "NEXT",
+                    "nextScene": "3"
+                }
+            ]
+        },
+        {
+            "id": "3",
+            "text": [
+                "Agent 2: Is that it?",
+                "Boxi: After that, I remember everything going black…",
+                "Agent 1: Checks out with their transcript here, it says they were in a nearly fatal car crash.",
+                "Agent 2: Boxi, what year do you remember it being?"
+            ],
+            "options": [
+                {
+                    "text": "19XX",
+                    "nextScene": "4"
+                },
+                {
+                    "text": "20XX",
+                    "nextScene": "4"
+                },
+                {
+                    "text": "21XX",
+                    "nextScene": "4"
+                }
+            ]
+        },
+        {
+            "id": "4",
+            "text": [
+                "Agent 1: That was 2 years ago.",
+                "Boxi: Have I been in a coma for 2 years!?",
+                "Agent 2: It seems so.",
+                "Boxi: I can't believe this… what about my job?",
+                "Agent 1: That is the reason why we are here, actually.",
+                "Agent 1: The current leader realized that your job was quite important and has replaced you.",
+                "Agent 1: However, he has left you the option of taking a new position.",
+                "Agent 1: You may take it, or find a new job elsewhere. He has stated that your gap in history will be erased and not affect your transcript.",
+                "Boxi: Who…?",
+                "Agent 1: Oh, yes. I forgot that his leadership is new to you. He was inaugurated not too long ago.",
+                "Agent 1: His name is Stewie (Family Guy).",
+                "Boxi: Stewie…? I don't ever remember a Stewie.",
+                "Agent 2: No, his name is Stewie (Family Guy).",
+                "Boxi: Is the subtitle really that important?",
+                "Agent 1: Yes. He demands all those in government positions refer to him as Stewie (Family Guy).",
+                "Boxi: I see…",
+                "Agent 2: For your position, we will give you a moment to decide whether you take it or not. We hope that our stay here was not too unwelcome.",
+                "…",
+                "Boxi: Huh, this is a big decision it seems I have to make here.",
+                "Boxi: Either I start working under a guy I've never heard of before, or I have to go job hunting again.",
+                "Boxi: What will I choose…?"
+            ],
+            "options": [
+                {
+                    "text": "TAKE THE JOB",
+                    "nextScene": "4a"
+                },
+                {
+                    "text": "FIND ANOTHER",
+                    "nextScene": "4b"
+                }
+            ]
+        },
+        {
+            "id": "4a",
+            "text": [
+                "Agent 1: Good choice, Boxi–",
+                "Agent 2: Let me get it.",
+                "Agent 2: Hello?",
+                "Agent 2: Oh. Yes. Of course. I see.",
+                "Agent 2: Yes, of course, sir. Goodbye.",
+                "Agent 2: …It was Stewie (Family Guy). He told me that he got tired of waiting for you to wake up and found a new employee to replace you.",
+                "Agent 2: We apologize for the inconvenience, Boxi.",
+                "Boxi: Oh. I see.",
+                "Boxi: Well, I guess I'll just go off, then…"
+            ],
+            "options": [
+                {
+                    "text": "NEXT",
+                    "nextScene": "5"
+                }
+            ]
+        },
+        {
+            "id": "4b",
+            "text": [
+                "Boxi: Well, I don't know the guy, or his motives. For all I know, I could be working for someone looking to destroy Planet X…",
+                "Boxi: I guess I'll just see myself out of the hospital, then.",
+                "Agent 1: We understand.",
+                "Agent 1: Thank you for your time, Boxi."
+            ],
+            "options": [
+                {
+                    "text": "NEXT",
+                    "nextScene": "5"
+                }
+            ]
+        },
+        {
+            "id": "5",
+            "text": [
+                "Boxi: At least this place hasn't changed a lot. Even if it feels like I was only here yesterday…",
+                "Boxi: I should examine it a bit before going inside, though. Just to make sure.",
+                "Boxi: Yup, pretty much looks like the Drunken Clam I know.",
+                "Boxi: Nothing super different about it.",
+                "Boxi: Huh. There's a piece of paper hung up on the front of the door here.",
+                "\"ABSOLUTELY NO FIGHTING UNDER ANY CIRCUMSTANCES WITHIN THE CONFINEMENTS OF THIS ESTABLISHMENT\"",
+                "Boxi: Well, I don't imagine I'll be getting into any bar fights today.",
+                "Random Guy: Yo. Haven't seen you around these parts.",
+                "Boxi: Uh, that's because I…",
+                "Boxi: You know what, nevermind.",
+                "Random Guy: Well, you seem pretty chill.",
+                "Random Guy: Here, I'll give you this.",
+                "Boxi: Uh, thank you…?"
+            ],
+            "options": [
+                {
+                    "text": "Enter the Door",
+                    "nextScene": "6"
+                }
+            ]
+        },
+        {
+            "id": "6",
+            "text": [
+                "Boxi: Well, it looks like the inside hasn't changed a whole lot, either. Thankfully.",
+                "Boxi: That's where I used to usually sit when I would come here a lot. But it seems someone is already sitting there…",
+                "Steve: Hey, haven't seen you around here.",
+                "Steve: The name's Minecraft Steve, but people just call me Steve.",
+                "Boxi: Uh, that's cool.",
+                "Steve: Hey, you look pretty down. Take this."
+            ],
+            "options": [
+                {
+                    "text": "Talk to Brian",
+                    "nextScene": "7"
+                }
+            ]
+        },
+        {
+            "id": "7",
+            "text": [
+                "Brian: Hey, that's a new face.",
+                "Brian: What's got you here so early? You're not day-drinkin', are you?"
+            ],
+            "options": [
+                {
+                    "text": "EXPLAIN YOURSELF",
+                    "nextScene": "7a"
+                },
+                {
+                    "text": "BE DEFENSIVE",
+                    "nextScene": "7b"
+                }
+            ]
+        },
+        {
+            "id": "7a",
+            "text": [
+                "Boxi: Well, I just got out of a 2 year coma. I think I kind of need a pick-me-up.",
+                "Brian: Oh man, that's gotta suck. I couldn't imagine being in a situation like that…",
+                "Brian: But I guess you have to, no?",
+                "Boxi: If you put it that way, yeah."
+            ],
+            "options": [
+                {
+                    "text": "NEXT",
+                    "nextScene": "8"
+                }
+            ]
+        },
+        {
+            "id": "7b",
+            "text": [
+                "Boxi: What's it to you? It's none of your business when I decide to come here.",
+                "Brian: Woah-hoh, easy there, speedster! Sorry I wanted to just poke a little friendly jab at you."
+            ],
+            "options": [
+                {
+                    "text": "NEXT",
+                    "nextScene": "8"
+                }
+            ]
+        },
+        {
+            "id": "8",
+            "text": [
+                "Brian: Anyways, I've been waiting for you. Those agents you saw in the hospital told me you'd probably come here, so they told me to wait at this exact spot. Seems they were right!",
+                "Boxi: How did they…",
+                "Brian: Yeah, it's a little creepy how much they studied you and your behavior! Makes me wonder what kinda tabs they got on me.",
+                "Brian: But still, that's besides the point. They assigned me to try to help you find another job.",
+                "Boxi: Well, that's nice, I suppose, but…",
+                "Boxi: What's the deal with this, anyways? Wouldn't they have just laid me off normally?",
+                "Brian: I don't think you really understand this, Boxi.",
+                "Brian: Stewie (Family Guy) knew what you brought to the last leader, and he didn't want to just let you go.",
+                "Brian: He still gave you the option to leave. But in a way, he still wanted to have your skills to use to his advantage.",
+                "Brian: When he first came up in the political scene, I was actually his right-hand man.",
+                "Brian: I helped him grow to be in the position of power that he is now.",
+                "Brian: His main goal…",
+                "Brian: To make everything a Family Guy Funny Moment.",
+                "Brian: I wrote every speech he delivered, I was at every press conference, every interview, every meeting…",
+                "Brian: But as soon as he got elected, he just… threw me to the wayside. Like trash.",
+                "Brian: Although they employed me to help you get some other job under him, I think I need my dignity back.",
+                "Brian: I can't just help a guy that ditched me so easily!",
+                "Brian: He'll do it to you, too, as soon as he doesn't need your expertise anymore.",
+                "Brian: You're a nice… er… person, Boxi. I can't let him do that to you.",
+                "Brian: Even if we've only been talking for however long the reader has spent on this specific scene.",
+                "Boxi: What?",
+                "Brian: What? I didn't say anything."
+            ],
+            "options": [
+                {
+                    "text": "BE NICE",
+                    "nextScene": "8a"
+                },
+                {
+                    "text": "BE MEAN",
+                    "nextScene": "8b"
+                }
+            ]
+        },
+        {
+            "id": "8a",
+            "text": [
+                "Boxi: …Well, this is all very nice of you, uh…"
+            ],
+            "options": [
+                {
+                    "text": "NEXT",
+                    "nextScene": "9"
+                }
+            ]
+        },
+        {
+            "id": "8b",
+            "text": [
+                "Boxi: …Well, I don't really appreciate your forwardness, uh…"
+            ],
+            "options": [
+                {
+                    "text": "NEXT",
+                    "nextScene": "9"
+                }
+            ]
+        },
+        {
+            "id": "9",
+            "text": [
+                "Boxi: Wait, I just realized I don't know your name.",
+                "Brian: Uh, it's been on my name tag this entire time. See?",
+                "Boxi: Oh. I guess that explains why I feel like I subconsciously knew it this whole time.",
+                "Boxi: But, I just don't get what was so special about my abilities that Stewie wanted–",
+                "Brian: It's Stewie (Family Guy).",
+                "Boxi: …Okay. I don't get what… Stewie (Family Guy) wanted out of me so badly, that he was willing to give me a new job entirely.",
+                "Boxi: I mean, I don't think I was bad at my job, but I also don't think I was so excellent at it, either.",
+                "Brian: Well, there is one thing that you could do that no other employee there could.",
+                "Boxi: What was it?",
+                "Brian: You were one of the lucky few able to perform battles.",
+                "Brian: Which is the exact reason why he wanted to keep you on his side so bad…",
+                "Brian: He knew that if you were to go against him, you could easily go up against him and defeat him.",
+                "Brian: I was by his side for years; he trained harder than anyone I know for the ability to battle.",
+                "Brian: Some are just naturally born with it.",
+                "Brian: And, of course, you, Boxi, are one of those who were gifted with that ability.",
+                "Brian: And to this day, you were the best battler in the entirety of Planet X.",
+                "Boxi: Wait… I think I remember…",
+                "Boxi: Yes, I remember now.",
+                "Boxi: That was the reason they hired me in the first place.",
+                "Boxi: My battling prowess was so good, they wanted to have me in their sphere to protect from hypothetical invaders.",
+                "Boxi: Although, I mostly got delegated to picking off stragglers.",
+                "Boxi: Like homeless guys and teenagers trying to trespass.",
+                "Brian: Don't you want to go back to then? The thrill of the battle?",
+                "Boxi: I do miss it…",
+                "Boxi: But, even though I've been unconscious, and still feel like 2 years ago was yesterday…",
+                "Boxi: I think I'm out of the loop when it comes to battles.",
+                "Boxi: I couldn't even tell you the last time I did one before all this happened.",
+                "Boxi: I was mostly doing maintenance work on the building every day.",
+                "Boxi: Battles happen so infrequently, I think I lost my charm for them…",
+                "Brian: Well, that's exactly what I'm here for, bud.",
+                "Brian: I need you to rekindle that battling fire deep inside you so that we can stop Stewie (Family Guy).",
+                "Brian: The planet as we know it resides on this one hope…",
+                "Brian: Or else, who knows what could happen.",
+                "Boxi: …Like what, exactly?",
+                "Brian: Well…",
+                "Brian: The day before his inauguration, I said one thing to him."
+            ],
+            "options": [
+                {
+                    "text": "NEXT",
+                    "nextScene": "10"
+                }
+            ]
+        },
+        {
+            "id": "10",
+            "text": [
+                "Brian: Stewie (Family Guy), I want you to know one thing before you get up there.",
+                "Brian: After everything we've accomplished here, I don't want you getting too ahead of yourself, y'know?",
+                "Brian: You're still my best friend, after all.",
+                "Stewie: Yes, yes, of course.",
+                "Stewie: Whatever you say, I'll take it into great consideration, Brian.",
+                "Brian: I know we want everything to be a Family Guy funny moment, but…",
+                "Stewie: But what?",
+                "Brian: If everything is a Family Guy Funny Moment, then nothing is.",
+                "Stewie: …",
+                "Stewie: Oh, quit your nonsense, Brian!",
+                "Stewie: You're just trying to get my nerves all up before my big moment.",
+                "Brian: No, no, come on!",
+                "Brian: I'm being serious, man.",
+                "Brian: You gotta watch yourself.",
+                "Brian: Just, remember that while you're up there for me, okay?",
+                "Stewie: …We'll see. I'll see you later, Brian.",
+                "Brian: Good luck, Stewie!"
+            ],
+            "options": [
+                {
+                    "text": "NEXT",
+                    "nextScene": "11"
+                }
+            ]
+        },
+        {
+            "id": "11",
+            "text": [
+                "Brian: \"If everything is a Family Guy Funny Moment, then nothing is.\"",
+                "Brian: It sounds stupid now, and hell – it sounded stupid then, too.",
+                "Brian: But I meant what I said, and I don't think Stewie (Family Guy) remembers at all now.",
+                "Brian: If he keeps going any further, he's going to watch his goal simply fade away."
+            ],
+            "options": [
+                {
+                    "text": "SUPPORT",
+                    "nextScene": "12a"
+                },
+                {
+                    "text": "BELITTLE",
+                    "nextScene": "12b"
+                }
+            ]
+        },
+        {
+            "id": "12a",
+            "text": [
+                "Boxi: Wow… I'm sorry to hear that, Brian. I imagine it's hard to have someone forget you like that.",
+                "Brian: Oh, it's nothing, really. I could take a thousand of these losses like nothing.",
+                "Brian: You just gotta keep moving. Like a leaf floating along a river."
+            ],
+            "options": [
+                {
+                    "text": "NEXT",
+                    "nextScene": "13"
+                }
+            ]
+        },
+        {
+            "id": "12b",
+            "text": [
+                "Boxi: I'm gonna be honest, man, that thing you said was kinda stupid.",
+                "Brian: You don't gotta rub it in, jeez!",
+                "Brian: What's it to you?",
+                "Brian: Some support you are…",
+                "Brian: But even then, I'll move along."
+            ],
+            "options": [
+                {
+                    "text": "NEXT",
+                    "nextScene": "13"
+                }
+            ]
+        },
+        {
+            "id": "13",
+            "text": [
+                "Brian: It's not like he matters the same to me anymore, anyways.",
+                "Brian: Which is exactly why we have to defeat him.",
+                "Boxi: Okay, but where would he be, exactly?",
+                "Brian: That's the thing. I don't know where he is right now.",
+                "Brian: He would likely be in his office, but due to the fact that he's on high security, they're very secretive as to his whereabouts.",
+                "Brian: We would have to find out exactly where he is at the current moment, because as soon as we get caught, we're toast.",
+                "Brian: A lot of the people around these parts of the town work in some sort of government position, and a select few of them would likely know where he is right now.",
+                "Brian: The only issue would be getting them to tell us.",
+                "Brian: But… I think I have an idea around that.",
+                "Brian: How's about a battle? For old times sake?",
+                "Boxi: If duty calls for it… then I guess."
+            ],
+            "options": [
+                {
+                    "text": "Next",
+                    "nextScene": "14"
+                }
+            ]
+        },
+        {
+            "id": "14",
+            "text": [
+                "Brian: Alright, let's get this show on the road.",
+                "Brian: You've got 3 choices to make here. You can either ATTACK me with one of your options there, use an ITEM, or FLEE from battle.",
+                "Brian: Let's start with the ATTACKing. How about you use one of them? It doesn't matter which one."
+            ],
+            "options": [
+                {
+                    "text": "Boxi Bash",
+                    "nextScene": "15a"
+                },
+                {
+                    "text": "Fire Spell",
+                    "nextScene": "15b"
+                },
+                {
+                    "text": "anything else",
+                    "nextScene": "15"
+                }
+            ]
+        },
+        {
+            "id": "15",
+            "text": [
+                "Brian: No, silly, I told you to ATTACK me!"
+            ],
+            "options": [
+                {
+                    "text": "Boxi Bash",
+                    "nextScene": "15a"
+                },
+                {
+                    "text": "Fire Spell",
+                    "nextScene": "15b"
+                },
+                {
+                    "text": "anything else",
+                    "nextScene": "15"
+                }
+            ]
+        },
+        {
+            "id": "15a",
+            "text": [
+                "Brian: Ow – I mean, you're doing great, kid!"
+            ],
+            "options": [
+                {
+                    "text": "NEXT",
+                    "nextScene": "16"
+                }
+            ]
+        },
+        {
+            "id": "15b",
+            "text": [
+                "Brian: Ow – that looked like it hurt us both!"
+            ],
+            "options": [
+                {
+                    "text": "NEXT",
+                    "nextScene": "16"
+                }
+            ]
+        },
+        {
+            "id": "16",
+            "text": [
+                "Brian: Okay. Now that you've gotten the hang of ATTACKing, let's use an ITEM now.",
+                "Brian: It looks like you already have one in your inventory. We'll use that."
+            ],
+            "options": [
+                {
+                    "text": "Use Item",
+                    "nextScene": "17"
+                }
+            ]
+        },
+        {
+            "id": "17",
+            "text": [
+                "Brian: Looked yummy! I almost want it now…",
+                "Brian: Ah! I'm getting off track. Our last option is the FLEE command. You'll promise me you'll only use this when absolutely necessary, right?",
+                "Brian: I don't appreciate cowards, and you aren't the cowardly type. I know that.",
+                "Brian: Although, there might be a chance that you can't get away. Watch out for that!",
+                "Brian: Besides that, I think our tutorial is pretty much over–"
+            ],
+            "options": [
+                {
+                    "text": "NEXT",
+                    "nextScene": "18"
+                }
+            ]
+        },
+        {
+            "id": "18",
+            "text": [
+                "Bartender: HEY! You two! Didn't you see the sign outside!?",
+                "Boxi: Uhh… There was a sign?",
+                "Bartender: THIS sign!",
+                "Brian: Okay, hey, listen man, I was just trying to help out my good friend here–",
+                "Bartender: I DON'T wanna hear it!",
+                "Bartender: Now you two scram!!",
+                "Brian: Wait, this is all a big misunderstanding–!"
+            ],
+            "options": [
+                {
+                    "text": "NEXT",
+                    "nextScene": "19"
+                }
+            ]
+        },
+        {
+            "id": "19",
+            "text": [
+                "Brian: Ow… welp, looks like we're not going back there for quite a while…",
+                "Boxi: I swear, I do not remember seeing a sign there.",
+                "Brian: Well, we needed to get out of there anyways.",
+                "Brian: Getting kicked out isn't going to deter us from our great mission!",
+                "Brian: Now, we need to find someone around here who'll know where Stewie is."
+            ],
+            "options": [
+                {
+                    "text": "Next",
+                    "nextScene": "20"
+                }
+            ]
+        },
+        {
+            "id": "20",
+            "text": [
+                "NOTE: Explore the area freely. Interact with characters and items as desired.",
+                "IMPORTANT: Must interact with Garfield to progress the story."
+            ],
+            "options": [
+                {
+                    "text": "Talk to Garfield",
+                    "nextScene": "21"
+                }
+            ]
+        },
+        {
+            "id": "21",
+            "text": [
+                "Garfield: Hey, I haven't seen you around these parts.",
+                "Brian: Oh, yes. This is my friend Boxi.",
+                "Brian: They're helping take down Stewie (Family Guy).",
+                "Garfield: Well, it was about time.",
+                "Garfield: He was gonna make it so that Mondays would be 0.02% longer, and I wasn't wanting any of that.",
+                "Garfield: You guys know how I feel about Mondays.",
+                "Brian: Yes, we do…",
+                "Garfield: Okay then, you guys need to find Stewie (Family Guy)?",
+                "Garfield: I know just where he's at.",
+                "Garfield: Let me show you.",
+                "Garfield: It'll take us a minute to get there, though.",
+                "Garfield: It's a bit of a walk.",
+                "Boxi: Don't you have like, a car or something?",
+                "Garfield: My paws can't reach the pedals.",
+                "Boxi: Oh. I guess."
+            ],
+            "options": [
+                {
+                    "text": "Next",
+                    "nextScene": "22"
+                }
+            ]
+        },
+        {
+            "id": "22",
+            "text": [
+                "Garfield: Okay, this is the place.",
+                "Brian:  Excuse my French, but Jesus Christ, Garfield!",
+                "Brian: That walk was so long, it's practically night outside now!",
+                "Garfield: Well, it'll be easier for you to sneak in, won't it?",
+                "Garfield: I can't come with you guys anyways.",
+                "Garfield: They haven't wanted me here ever since I tried to steal that priceless lasagna from the kitchen.",
+                "Garfield: Actually, I think I might still have some. It'll be a good omen on your trip, maybe.",
+                "Brian: Ah, um, thank you, Garfield…",
+                "Garfield: Well, I'm off. Good luck on your overthrowing of the government or whatever it is you're doing.",
+                "Garfield: I'm gonna go take a nap.",
+                "Brian: Alright, bye Garfield!",
+                "Brian: Okay, I really did not want that lasagna he gave us.",
+                "Boxi: Yeah…",
+                "Brian: Anyways, we need to assess our situation here. I see a small crack in the wall over there that we could use to get into the building.",
+                "Brian: Or, I could pretend I'm still on Stewie (Family Guy)'s side, and just walk right in.",
+                "Brian: I would imagine that you would likely need to disguise yourself as a guard or something.",
+                "Boxi: So we either sneak into the building, or disguise ourselves to pass by the guards undetected…?",
+                "Brian: Those seem like our only options right now."
+            ],
+            "options": [
+                {
+                    "text": "BREAK IN",
+                    "nextScene": "23a"
+                },
+                {
+                    "text": "DISGUISE",
+                    "nextScene": "23b"
+                }
+            ]
+        },
+        {
+            "id": "23a",
+            "text": [
+                "Brian: Okay, I see a few paths that we can take here."
+            ],
+            "options": [
+                {
+                    "text": "CRAWL THROUGH",
+                    "nextScene": "23aa"
+                },
+                {
+                    "text": "DIG TUNNEL",
+                    "nextScene": "23ab"
+                },
+                {
+                    "text": "ENLARGEN HOLE",
+                    "nextScene": "23ac"
+                },
+                {
+                    "text": "GO THROUGH ROOF",
+                    "nextScene": "23ad"
+                }
+            ]
+        },
+        {
+            "id": "23aa",
+            "text": [
+                "Brian: Alright, I think I can squeeze myself through here…",
+                "Brian: Okay, I'm through. Now we just need to get you through here as well.",
+                "Brian: Hnnnnnggg!!",
+                "Boxi: Um…",
+                "Boxi: I think I'm stuck."
+            ],
+            "options": [
+                {
+                    "text": "TRY AGAIN",
+                    "nextScene": "23a"
+                }
+            ]
+        },
+        {
+            "id": "23ab",
+            "text": [
+                "Brian: I'm not sure where this shovel came from, but whatever.",
+                "Brian: Let's just get this over with.",
+                "dig, dig, dig",
+                "Brian: Alright, we made it, and I don't see any guards over here. Let's get to Stewie (Family Guy) before that changes."
+            ],
+            "options": [
+                {
+                    "text": "NEXT",
+                    "nextScene": "24"
+                }
+            ]
+        },
+        {
+            "id": "23ac",
+            "text": [
+                "Brian: Let's just chip at this wall here until we can fit inside of it no problem.",
+                "Brian: Yep, I think I'm getting somewhere!",
+                "Brian: …",
+                "Boxi: …",
+                "Brian: Oops."
+            ],
+            "options": [
+                {
+                    "text": "TRY AGAIN",
+                    "nextScene": "23a"
+                }
+            ]
+        },
+        {
+            "id": "23ad",
+            "text": [
+                "Brian: Okay, there's a ladder over there that we can use to get on the roof. Then we can lower ourselves down all Indiana Jones style. Yeah.",
+                "Brian: Alright, now we can–",
+                "Intercom: FREEZE WHERE YOU ARE!",
+                "Brian: Crap."
+            ],
+            "options": [
+                {
+                    "text": "TRY AGAIN",
+                    "nextScene": "23a"
+                }
+            ]
+        },
+        {
+            "id": "23b",
+            "text": [
+                "Brian: Alright, I've got a few different disguises we can try to work with here."
+            ],
+            "options": [
+                {
+                    "text": "GUARD DISGUISE",
+                    "nextScene": "23ba"
+                },
+                {
+                    "text": "SIMPLE DISGUISE",
+                    "nextScene": "23bb"
+                },
+                {
+                    "text": "BUSH DISGUISE",
+                    "nextScene": "23bc"
+                },
+                {
+                    "text": "TWIN DISGUISE",
+                    "nextScene": "23bd"
+                }
+            ]
+        },
+        {
+            "id": "23ba",
+            "text": [
+                "Brian: Okay, I've got this old guard outfit for you. Here you go.",
+                "Brian: Hello, Mr. Guard. Would you be so kind as to let me and my other guard friend in? We are here to do business things. Yes.",
+                "Guard: Uh, what's this guy's name?",
+                "Boxi: Oh! Um… uh…",
+                "Boxi: Joe Mama!",
+                "Brian: …",
+                "Guard: Very funny. Well, I'm looking at our registry here, and I don't see a 'Joe Mama' in our list of nighttime watchers. Get out."
+            ],
+            "options": [
+                {
+                    "text": "TRY AGAIN",
+                    "nextScene": "23b"
+                }
+            ]
+        },
+        {
+            "id": "23bb",
+            "text": [
+                "Brian: I mean, I'm not too sure about this, but if you think it'll work…",
+                "Brian: Hello, Mr. Guar–",
+                "Guard: HEY! You're not supposed to be here!",
+                "Brian: W-wait, sir, what are you talking about, exactly–",
+                "Guard: I saw that guy with the funny nose the other day stealing my sandwich out of the break room fridge!",
+                "Guard: There's no way I'm letting you in!",
+                "Boxi: Uh… I was literally in a coma yesterday…",
+                "Guard: Yeah, like that'll fool me. Get lost!!"
+            ],
+            "options": [
+                {
+                    "text": "TRY AGAIN",
+                    "nextScene": "23b"
+                }
+            ]
+        },
+        {
+            "id": "23bc",
+            "text": [
+                "Brian: This feels really dumb.",
+                "Boxi: No, I'm sure it'll work.",
+                "Brian: Hello, good sir. May I step inside for a moment?",
+                "Guard: Since when was that bush right there?",
+                "Boxi: …",
+                "Brian: What bush? I don't see a bush.",
+                "Guard: Ah, you must be right. Go on ahead."
+            ],
+            "options": [
+                {
+                    "text": "NEXT",
+                    "nextScene": "24"
+                }
+            ]
+        },
+        {
+            "id": "23bd",
+            "text": [
+                "Brian: Man, it's like looking in a mirror, I'll say.",
+                "Brian: Let's go test it out.",
+                "Brian: Hello, kind sir. Me and my twin brother here need to step inside for a moment to get some business done.",
+                "Guard: …Brian, since when did you have a twin?",
+                "Brian: Wait a minute.",
+                "Brian: Are you Adam?",
+                "Guard: Dude, it's been like, forever, I swear! How's it goin', man?",
+                "Brian: Yeah, yeah, pretty good! You know, I swear they used to… blah… blah… blah…",
+                "Boxi then sat beside the door for two hours while Brian caught up with his friend. They died of dehydration shortly after the two said they would go and then brought up an entirely new subject and began chatting about that.",
+                "--- BAD END ---"
+            ],
+            "options": [
+                {
+                    "text": "TRY AGAIN",
+                    "nextScene": "23b"
+                }
+            ]
+        },
+        {
+            "id": "24",
+            "text": [
+                "Brian: …",
+                "Brian: How did that even work??",
+                "Boxi: Well, I don't know, but we got in.",
+                "Brian: You're right.",
+                "Brian: It's time to look for Stewie (Family Guy).",
+                "Brian: But first, it looks like we might have to do a little guessing game here.",
+                "Brian: There's a lot of doors…",
+                "Boxi: I think it's locked.",
+                "Brian: Ah, too bad. Let's try another door.",
+                "Brian: Hmm, let's see…",
+                "Freddy Faze Bear: hor"
+            ],
+            "options": [
+                {
+                    "text": "Enter Door 3",
+                    "nextScene": "25"
+                }
+            ]
+        },
+        {
+            "id": "25",
+            "text": [
+                "Brian: Aw man, more doors!? This is about as bad as that one time I–",
+                "Boxi: Save it.",
+                "Brian: Ah, you're right. Can't do that anymore.",
+                "Boxi: It's slammed shut. I can't even wiggle the doorknob.",
+                "Brian: Well, this one says \"DO NOT ENTER UNDER ANY CIRCUMSTANCES, ESPECIALLY IF YOUR NAME IS BRIAN.\"",
+                "Brian: Uhhh… do you want to go in first?",
+                "Boxi: Okay…",
+                "Triple T: hey its me triple t",
+                "Brian: I'm sorry, who are you??",
+                "Triple T: im going to fight you now",
+                "Brian: Ah, okay, I think this one will work–",
+                "Guard: HEY!"
+            ],
+            "options": [
+                {
+                    "text": "Enter Door 4",
+                    "nextScene": "26"
+                }
+            ]
+        },
+        {
+            "id": "26",
+            "text": [
+                "Brian: Hey, I think this might be the one.",
+                "Brian: You ready, Boxi?",
+                "Boxi: As ready as I can be.",
+                "NOTE: The scene that follows depends on your Brian Friendship level."
+            ],
+            "options": [
+                {
+                    "text": "HIGH Brian Friendship",
+                    "nextScene": "26a"
+                },
+                {
+                    "text": "LOW Brian Friendship",
+                    "nextScene": "26b"
+                }
+            ]
+        },
+        {
+            "id": "26a",
+            "text": [
+                "Stewie (Family Guy): Well, well, well…",
+                "Stewie (Family Guy): You know, I've been expecting to see you, Brian.",
+                "Stewie (Family Guy): But what I wasn't expecting was for you to bring a friend along.",
+                "Stewie (Family Guy): How long has it been? About a few months now?",
+                "Stewie (Family Guy): Since you refused to continue helping me?",
+                "Brian: Stewie, you know–",
+                "Stewie (Family Guy): Nope. You know how to refer to me, Brian.",
+                "Brian: And who exactly says that I have to?",
+                "Stewie (Family Guy): Well, me, of course.",
+                "Stewie (Family Guy): I've got all the power I could ever ask for, and I could wipe you two off of this map in an instant.",
+                "Stewie (Family Guy): You're lucky that I have some self control left.",
+                "Brian: I know you wouldn't.",
+                "Brian: You're still trying to get me to come back to your side.",
+                "Stewie (Family Guy): And so what if I am?",
+                "Stewie (Family Guy): You were my most loyal friend.",
+                "Stewie (Family Guy): Yet you betrayed me, because you felt as if my great goal was too ambitious.",
+                "Stewie (Family Guy): Almost like that one time I–",
+                "Brian: Stewie (Family Guy), you know that we don't have the budget to implement any cutaway gags!",
+                "Stewie (Family Guy): Ugh! You're no fun, Brian!",
+                "Stewie (Family Guy): I ought to destroy both of you!"
+            ],
+            "options": [
+                {
+                    "text": "Next",
+                    "nextScene": "27a"
+                }
+            ]
+        },
+        {
+            "id": "27a",
+            "text": [
+                "Stewie (Family Guy): You know, it may be a nice day outside.",
+                "Stewie (Family Guy): It's a shame you're spending it trying to take me down.",
+                "Boxi: You won't get away with this, Stewie (Family Guy)!",
+                "Stewie (Family Guy): And what are you going to do, exactly?",
+                "Stewie (Family Guy): What do you bring to the table against me?"
+            ],
+            "options": [
+                {
+                    "text": "ATTACK",
+                    "nextScene": "28a"
+                }
+            ]
+        },
+        {
+            "id": "28a",
+            "text": [
+                "Stewie (Family Guy): Hah, that barely did a scratch.",
+                "Stewie (Family Guy): I assumed you would've been more competent than this!",
+                "Stewie (Family Guy): Considering your status as a battler, of course.",
+                "Brian: You know, I remember you wanting their skills on your side so badly!",
+                "Brian: What happened to that, Stewie?",
+                "Stewie: You know how to refer to me, Brian. Don't make me mad."
+            ],
+            "options": [
+                {
+                    "text": "ATTACK",
+                    "nextScene": "29a"
+                }
+            ]
+        },
+        {
+            "id": "29a",
+            "text": [
+                "Stewie (Family Guy): You know, Brian, if you were to come to my side instead, you would be richer than you could ever imagine.",
+                "Stewie (Family Guy): Much to consider!"
+            ],
+            "options": [
+                {
+                    "text": "ATTACK",
+                    "nextScene": "30a"
+                }
+            ]
+        },
+        {
+            "id": "30a",
+            "text": [
+                "Brian: Yeah, and I would be fighting for a cause I don't believe in.",
+                "Stewie (Family Guy): But think of all the memories we've shared!",
+                "Stewie (Family Guy): We've spent so long together, I can't imagine what it's like without you!",
+                "Brian: You know that doesn't mean anything to me anymore."
+            ],
+            "options": [
+                {
+                    "text": "ATTACK",
+                    "nextScene": "31a"
+                }
+            ]
+        },
+        {
+            "id": "31a",
+            "text": [
+                "Stewie (Family Guy): Just think of the limitless power we would have.",
+                "Stewie (Family Guy): I already rule over Planet X with an iron fist! You could join me!",
+                "Boxi: I'm not letting you destroy my home, Stewie!",
+                "Stewie (Family Guy): Good Lord, you too now!?",
+                "Stewie (Family Guy): When will I get some respect around here?!"
+            ],
+            "options": [
+                {
+                    "text": "ATTACK",
+                    "nextScene": "32a"
+                }
+            ]
+        },
+        {
+            "id": "32a",
+            "text": [
+                "Stewie (Family Guy): What even is your motive, anyways?",
+                "Stewie (Family Guy): I know Brian's salty because I moved on without him.",
+                "Stewie (Family Guy): But you, Boxi?",
+                "Stewie (Family Guy): There's no reason for you to be against me!",
+                "Stewie (Family Guy): I'm making your home better! Funnier!",
+                "Stewie (Family Guy): I'm improving the living conditions, whether you believe it or not!"
+            ],
+            "options": [
+                {
+                    "text": "ATTACK",
+                    "nextScene": "33a"
+                }
+            ]
+        },
+        {
+            "id": "33a",
+            "text": [
+                "Boxi: How are Family Guy Funny Moments gonna improve my life at all?",
+                "Stewie (Family Guy): You may not understand it yet, but you will once my master plan has been fully implemented.",
+                "Stewie (Family Guy): You both will rue this day for the rest of your lives, and I'll make certain of it!",
+                "Stewie (Family Guy): Either that, or I'll kill you where you stand!"
+            ],
+            "options": [
+                {
+                    "text": "ATTACK",
+                    "nextScene": "34a"
+                }
+            ]
+        },
+        {
+            "id": "34a",
+            "text": [
+                "Stewie (Family Guy): Why are you two still kicking!? You should be dead by now!"
+            ],
+            "options": [
+                {
+                    "text": "ATTACK",
+                    "nextScene": "35a"
+                }
+            ]
+        },
+        {
+            "id": "35a",
+            "text": [
+                "Brian: I could say the same for you!",
+                "Brian: I don't remember you being this strong!",
+                "Stewie (Family Guy): Well, I may have had some genetic modifications done to my body to make me more durable.",
+                "Stewie (Family Guy): Around 87% of my body is pure titanium now, and that's one of the strongest materials there is!"
+            ],
+            "options": [
+                {
+                    "text": "ATTACK",
+                    "nextScene": "36a"
+                }
+            ]
+        },
+        {
+            "id": "36a",
+            "text": [
+                "Brian: So, you're telling me that the Stewie I grew up with, the Stewie I traveled through parallel timelines with, is just… gone?",
+                "Stewie (Family Guy): Just about, yes.",
+                "Brian: …I…"
+            ],
+            "options": [
+                {
+                    "text": "ATTACK",
+                    "nextScene": "37a"
+                }
+            ]
+        },
+        {
+            "id": "37a",
+            "text": [
+                "Brian: Even if the Stewie I knew is gone now, I still know he's in there.",
+                "Stewie (Family Guy): What are you even talking about, Brian?",
+                "Brian: I used to trust you with my life, Stewie.",
+                "Brian: Can't we go home? Forget about all of this?",
+                "Brian: Let's go back to Quahog, Stewie.",
+                "Stewie (Family Guy): …"
+            ],
+            "options": [
+                {
+                    "text": "ATTACK",
+                    "nextScene": "38a"
+                }
+            ]
+        },
+        {
+            "id": "38a",
+            "text": [
+                "Stewie (Family Guy): You really think I would fall for a trick like that so easily?",
+                "Brian: …Well, yeah.",
+                "Brian: That's why I said it in the first place.",
+                "Stewie (Family Guy): You're such a FOOL!",
+                "Stewie (Family Guy): BOTH OF YOU! FOOLS!!!",
+                "Stewie (Family Guy): I WILL CONTINUE TO RULE THIS PLANET FORE–",
+                "Lego Piece: [steps on Stewie]",
+                "Stewie (Family Guy): …",
+                "Stewie (Family Guy): OOOOOOOOOOOOOWWWWWWWWWWWWWWWW!!!!!!!!!!!!!!!!!!!!!!!"
+            ],
+            "options": [
+                {
+                    "text": "NEXT",
+                    "nextScene": "39a"
+                }
+            ]
+        },
+        {
+            "id": "39a",
+            "text": [
+                "Brian: …",
+                "Brian: Well, that was more anticlimactic than I expected it to be.",
+                "Boxi: Yeah.",
+                "Brian: Well, we did it, I guess.",
+                "Brian: Hey, Boxi…",
+                "Boxi: Yeah, Brian?",
+                "Brian: Whaddya say we kick back and relax for a little bit?",
+                "Brian: I think we deserve it.",
+                "Boxi: I couldn't agree more."
+            ],
+            "options": []
+        },
+        {
+            "id": "26b",
+            "text": [
+                "Stewie (Family Guy): Well, well, well…",
+                "Stewie (Family Guy): You know, I've been expecting to see you, Brian.",
+                "Stewie (Family Guy): But what I wasn't expecting was for you to bring a friend along.",
+                "Stewie (Family Guy): How long has it been? About a few months now?",
+                "Stewie (Family Guy): Since you refused to continue helping me?",
+                "Brian: Stewie, you know–",
+                "Stewie (Family Guy): Nope. You know how to refer to me, Brian.",
+                "Brian: And who exactly says that I have to?",
+                "Stewie (Family Guy): Well, me, of course.",
+                "Stewie (Family Guy): I've got all the power I could ever ask for, and I could wipe you two off of this map in an instant.",
+                "Stewie (Family Guy): You're lucky that I have some self control left.",
+                "Brian: I know you wouldn't.",
+                "Brian: You're still trying to get me to come back to your side.",
+                "Stewie (Family Guy): And so what if I am?",
+                "Stewie (Family Guy): You were my most loyal friend.",
+                "Stewie (Family Guy): Yet you betrayed me, because you felt as if my great goal was too ambitious.",
+                "Brian: You know, Stewie…",
+                "Brian: This… 'Boxi' guy hasn't really been getting along with me.",
+                "Brian: And you know what?",
+                "Brian: I think that I ought to teach them a lesson in manners!",
+                "Stewie (Family Guy): W-what are you saying, Brian?",
+                "Brian: I'm saying that I'm coming back to your side!",
+                "Brian: Sorry, Boxi.",
+                "Brian: But you've proven that you aren't to be trusted!"
+            ],
+            "options": [
+                {
+                    "text": "Next",
+                    "nextScene": "27b"
+                }
+            ]
+        },
+        {
+            "id": "27b",
+            "text": [
+                "Boxi: What!?",
+                "Boxi: Brian, you can't just betray me like this!",
+                "Brian: Well, for lack of a better word, you've been kind of a d-head the entire time I've known you.",
+                "Brian: You made me realize how valuable my friendship with Stewie is!",
+                "Stewie (Family Guy): Hah! That's right!",
+                "Stewie (Family Guy): And with the power of us both, we'll crush you into a small brown stain on the carpet!",
+                "Boxi: That's kinda gross, but whatever…"
+            ],
+            "options": [
+                {
+                    "text": "ATTACK",
+                    "nextScene": "28b"
+                }
+            ]
+        },
+        {
+            "id": "28b",
+            "text": [
+                "Brian: Your attacks are so weak!",
+                "Brian: Stewie, why did you even want to keep this guy on your side in the first place!?",
+                "Stewie (Family Guy): They were definitely a renowned battler for their time.",
+                "Stewie (Family Guy): But I see that time has run out now!",
+                "Stewie (Family Guy): Boxi, you're foolish for even trying to take me down.",
+                "Stewie (Family Guy): Even with Brian's help, you wouldn't have stood a chance!"
+            ],
+            "options": [
+                {
+                    "text": "ATTACK",
+                    "nextScene": "29b"
+                }
+            ]
+        },
+        {
+            "id": "29b",
+            "text": [
+                "Brian: Stewie, I hate to tell you this, but…",
+                "Stewie (Family Guy): But what, Brian?",
+                "Brian: I think my heartburn's flaring up right now.",
+                "Brian: I don't really know how much longer I can exactly go for.",
+                "Stewie (Family Guy): That's nonsense, Brian! You–",
+                "Stewie (Family Guy): …",
+                "Boxi: …",
+                "Stewie (Family Guy): No matter!",
+                "Stewie (Family Guy): I can defeat you even WITHOUT my right-hand man!",
+                "Stewie (Family Guy): I'll just have to unleash all of my power!"
+            ],
+            "options": [
+                {
+                    "text": "ATTACK",
+                    "nextScene": "30b"
+                }
+            ]
+        },
+        {
+            "id": "30b",
+            "text": [
+                "Boxi: That seemed like a similar amount of power to me–",
+                "Stewie (Family Guy): SHUT IT!",
+                "Stewie (Family Guy): I'm using my Ultimate Stewie Power!",
+                "Stewie (Family Guy): Now NOTHING can stop me!!!",
+                "Stewie (Family Guy): I'll just have to take you down mysel–",
+                "Lego Piece: [steps on Stewie]",
+                "Stewie (Family Guy): …",
+                "Stewie (Family Guy): OOOOOOOOOOWWWWWWWWWWWWW!!!!!!!!!"
+            ],
+            "options": [
+                {
+                    "text": "NEXT",
+                    "nextScene": "31b"
+                }
+            ]
+        },
+        {
+            "id": "31b",
+            "text": [
+                "Boxi: …",
+                "Boxi: Well, that's that I guess."
+            ],
+            "options": []
+        }
+    ]
+}

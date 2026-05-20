@@ -1,0 +1,52 @@
+{
+    "characters": [
+        {
+            "Boxi": {
+                "name": "Boxi",
+                "art": "boxi.png",
+                "health": 20,
+                "attacks" : [
+                    {
+                        "name": "Boxi Bash",
+                        "damage": 2,
+                        "self (RECOIL OR HEALING (positive for healing, negative for recoil))" : 0,
+                        "spread": false
+                    },
+                    {
+                        "name": "Fire Wand",
+                        "damage": 5,
+                        "self" : -2,
+                        "spread": false
+                    }
+                ]
+            }
+        },
+        {
+            "Brian": {
+                "name": "Brian",
+                "art": "brian.png",
+                "health": 20,
+                "attacks" : [
+                    {
+                        "name": "Martini Drink",
+                        "damage": 0,
+                        "self" : 2,
+                        "spread": true
+                    },
+                    {
+                        "name": "Charge",
+                        "damage": 2,
+                        "self" : 0,
+                        "spread": false
+                    }
+                ]
+            }
+        },
+        {
+            "Barkeep (character that doesn't go into combat)": {
+                "name": "Barkeep",
+                "art": "barkeep.png"
+            }
+        }
+    ]
+}
