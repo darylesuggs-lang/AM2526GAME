@@ -1,0 +1,51 @@
+{
+  "items": [
+    {
+      "id": "Donut",
+      "name": "Donut",
+      "description": "A sweet donut. Restores 10 health.",
+      "type": "consumable",
+      "stackable": true,
+      "maxStack": 10,
+      "icon": "assets/items/donut.png",
+      "healAmount": 0,
+      "onUse": "useConsumable",
+      "tags": ["food", "healing"]
+    },
+    {
+      "id": "Lasagna",
+      "name": "Lasagna",
+      "description": "A filling lasagna. Restores 5 health.",
+      "type": "consumable",
+      "stackable": true,
+      "maxStack": 5,
+      "icon": "assets/items/lasagna.png",
+      "healAmount": 0,
+      "onUse": "useConsumable",
+      "tags": ["food", "healing"]
+    },
+    {
+      "id": "steak",
+      "name": "Steak",
+      "description": "A beefy steak. Restores  15 health.",
+      "type": "consumable",
+      "stackable": true,
+      "maxStack": 5,
+      "icon": "assets/items/steak.png",
+      "healAmount": 0,
+      "onUse": "useSteak",
+      "tags": ["food", "healing"]
+    },
+    {
+      "id": "Key",
+      "name": "Key",
+      "description": "A key that unlocks the third path.",
+      "type": "key",
+      "stackable": true,
+      "maxStack": 3,
+      "icon": "assets/items/key.png",
+      "onUse": "unlockThirdPath",
+      "tags": ["quest"]
+    }
+  ]
+}
