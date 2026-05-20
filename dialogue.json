@@ -1,0 +1,405 @@
+{
+    "scenes": [
+        {
+            "scene": "1",
+            "item": false,
+            "dialogue": [
+                {
+                    "speaker": "Agent 1",
+                    "text": "Oh, they&#39;re finally awake.",
+                    "end": false
+                },
+                {
+                    "speaker": "Boxi",
+                    "text": "Huh… Where am I…?",
+                    "end": false
+                },
+                {
+                    "speaker": "Agent 2",
+                    "text": "Boxi, what do you remember from before all of this?",
+                    "end": false
+                },
+                {
+                    "speaker": "Boxi",
+                    "text": "Well...",
+                    "end": true
+                }
+            ]
+        },
+        {
+            "scene": "2",
+            "item": false,
+            "dialogue": [
+                {
+                    "speaker": "Boxi",
+                    "text": "I remember driving.",
+                    "end": false
+                },
+                {
+                    "speaker": "Boxi",
+                    "text": "I was on my way to work… and I remember a… car coming towards me…",
+                    "end": false
+                }
+            ]
+        },
+        {
+            "scene": "3",
+            "item": false,
+            "dialogue": [
+                {
+                    "speaker": "Agent 2",
+                    "text": "Is that it?",
+                    "end": false
+                },
+                {
+                    "speaker": "Boxi",
+                    "text": "After that, I remember everything going black…",
+                    "end": false
+                },
+                {
+                    "speaker": "Agent 1",
+                    "text": "Checks out with their transcript here, it says they were in a nearly fatal car crash.",
+                    "end": false
+                },
+                {
+                    "speaker": "Agent 2",
+                    "text": "Boxi, what year do you remember it being?",
+                    "end": true
+                }
+            ]
+        },
+        {
+            "scene": "4",
+            "item": false,
+            "dialogue": [
+                {
+                    "speaker": "Agent 1",
+                    "text": "That was 2 years ago.",
+                    "end": false
+                },
+                {
+                    "speaker": "Boxi",
+                    "text": "Have I been in a coma for 2 years!?",
+                    "end": false
+                },
+                {
+                    "speaker": "Agent 2",
+                    "text": "It seems so.",
+                    "end": false
+                },
+                {
+                    "speaker": "Boxi",
+                    "text": "I can&#39;t believe this… what about my job?",
+                    "end": false
+                },
+                {
+                    "speaker": "Agent 1",
+                    "text": "That is the reason why we are here, actually.",
+                    "end": false
+                },
+                {
+                    "speaker": "Agent 1",
+                    "text": "The current leader realized that your job was quite important and has replaced you.",
+                    "end": false
+                },
+                {
+                    "speaker": "Agent 1",
+                    "text": "However, he has left you the option of taking a new position.",
+                    "end": false
+                },
+                {
+                    "speaker": "Agent 1",
+                    "text": "Agent 1: You may take it, or find a new job elsewhere.",
+                    "end": false
+                },
+                {
+                    "speaker": "Agent 1",
+                    "text": "He has stated that your gap in history will be erased and not affect your transcript.",
+                    "end": false
+                },
+                {
+                    "speaker": "Boxi",
+                    "text": "Who…?",
+                    "end": false
+                },
+                {
+                    "speaker": "Agent 1",
+                    "text": "Oh, yes. I forgot that his leadership is new to you.",
+                    "end": false
+                },
+                {
+                    "speaker": "Agent 1",
+                    "text": "He was inaugurated not too long ago.",
+                    "end": false
+                },
+                {
+                    "speaker": "Agent 1",
+                    "text": "His name is Stewie (Family Guy).",
+                    "end": false
+                },
+                {
+                    "speaker": "Boxi",
+                    "text": "Stewie…? I don&#39;t ever remember a Stewie.",
+                    "end": false
+                },
+                {
+                    "speaker": "Agent 2",
+                    "text": "No, his name is Stewie (Family Guy).",
+                    "end": false
+                },
+                {
+                    "speaker": "Boxi",
+                    "text": "Boxi: Is the subtitle really that important?",
+                    "end": false
+                },
+                {
+                    "speaker": "Boxi",
+                    "text": "Agent 1: Yes. He demands all those in government positions refer to him as Stewie (Family Guy).",
+                    "end": false
+                },
+                {
+                    "speaker": "Boxi",
+                    "text": "I see…",
+                    "end": false
+                },
+                {
+                    "speaker": "Agent 1",
+                    "text": "For your position, we will give you a moment to decide whether you take it or not.",
+                    "end": false
+                },
+                {
+                    "speaker": "Agent 1",
+                    "text": "We hope that our stay here was not too unwelcome.",
+                    "end": false
+                },
+                {
+                    "speaker": "none",
+                    "text": "…",
+                    "end": false
+                },
+                {
+                    "speaker": "Boxi",
+                    "text": "Huh, this is a big decision it seems I have to make here.",
+                    "end": false
+                },
+                {
+                    "speaker": "Boxi",
+                    "text": "Either I start working under a guy I&#39;ve never heard of before, or I have to go job hunting again.",
+                    "end": false
+                },
+                {
+                    "speaker": "Boxi",
+                    "text": "Boxi: What will I choose…?",
+                    "end": true
+                }
+            ]
+        },
+        {
+            "scene": "4a",
+            "item": false,
+            "dialogue": [
+                {
+                    "speaker": "Agent 1",
+                    "text": "Good choice, Boxi&#8211",
+                    "end": false
+                },
+                {
+                    "speaker": "none",
+                    "text": "*phone ringing*",
+                    "end": false
+                },
+                {
+                    "speaker": "Agent 2",
+                    "text": "Let me get it.",
+                    "end": false
+                },
+                {
+                    "speaker": "Agent 2",
+                    "text": "Hello?",
+                    "end": false
+                },
+                {
+                    "speaker": "Agent 2",
+                    "text": "Oh. Yes. Of course. I see.",
+                    "end": false
+                },
+                {
+                    "speaker": "Agent 2",
+                    "text": "Yes, of course, sir. Goodbye.",
+                    "end": false
+                },
+                {
+                    "speaker": "none",
+                    "text": "*phone hang up*",
+                    "end": false
+                },
+                {
+                    "speaker": "Agent 2",
+                    "text": "…It was Stewie (Family Guy).",
+                    "end": false
+                },
+                {
+                    "speaker": "Agent 2",
+                    "text": "He told me that he got tired of waiting for you to wake up and found a new employee to replace you.",
+                    "end": false
+                },
+                {
+                    "speaker": "Agent 2",
+                    "text": " We apologize for the inconvenience, Boxi.",
+                    "end": false
+                },
+                {
+                    "speaker": "Boxi",
+                    "text": "Oh. I see.",
+                    "end": false
+                },
+                {
+                    "speaker": "Boxi",
+                    "text": "Well, I guess I&#39;ll just go off, then…",
+                    "end": true
+                }
+            ]
+        },
+        {
+            "scene": "4b",
+            "item": false,
+            "dialogue": [
+                {
+                    "speaker": "Boxi",
+                    "text": "Well, I don&#39;t know the guy, or his motives.",
+                    "end": false
+                },
+                {
+                    "speaker": "Boxi",
+                    "text": "For all I know, I could be working for someone looking to destroy Planet X…",
+                    "end": false
+                },
+                {
+                    "speaker": "Boxi",
+                    "text": "Boxi: I guess I&#39;ll just see myself out of the hospital, then.",
+                    "end": false
+                },
+                {
+                    "speaker": "Agent 1",
+                    "text": "We understand.",
+                    "end": false
+                },
+                {
+                    "speaker": "Agent 1",
+                    "text": "Thank you for your time, Boxi.",
+                    "end": true
+                }
+            ]
+        },
+        {
+            "scene": "5",
+            "item": false,
+            "dialogue": [
+                {
+                    "speaker": "Boxi",
+                    "text": "At least this place hasn&#39;t changed a lot.",
+                    "end": false
+                },
+                {
+                    "speaker": "Boxi",
+                    "text": "Even if it feels like I was only here yesterday…",
+                    "end": false
+                },
+                {
+                    "speaker": "Boxi",
+                    "text": "I should examine it a bit before going inside, though. Just to make sure.",
+                    "end": false
+                }
+            ]
+        },
+        {
+            "scene": "5a",
+            "item": false,
+            "dialogue": [
+                {
+                    "speaker": "Boxi",
+                    "text": " Yup, pretty much looks like the Drunken Clam I know.",
+                    "end": false
+                },
+                {
+                    "speaker": "Boxi",
+                    "text": "Nothing super different about it.",
+                    "end": true
+                }
+            ]
+        },
+        {
+            "scene": "5b",
+            "item": false,
+            "dialogue": [
+                {
+                    "speaker": "Boxi",
+                    "text": "Huh. There&#39;s a piece of paper hung up on the front of the door here.",
+                    "end": false
+                },
+                {
+                    "speaker": "paper",
+                    "text": "ABSOLUTELY NO FIGHTING UNDER ANY CIRCUMSTANCES WITHIN THE CONFINEMENTS OF THIS ESTABLISHMENT",
+                    "end": false
+                },
+                {
+                    "speaker": "",
+                    "text": "",
+                    "end": true
+                }
+            ]
+        },
+        {
+            "scene": "5c",
+            "item": true,
+            "dialogue": [
+                {
+                    "speaker": "Jonsey",
+                    "text": "Yo. Haven&#39;t seen you around these parts.",
+                    "end": false
+                },
+                {
+                    "speaker": "Boxi",
+                    "text": "Uh, that&#39;s because I…",
+                    "end": false
+                },
+                {
+                    "speaker": "Boxi",
+                    "text": "You know what, nevermind.",
+                    "end": false
+                },
+                {
+                    "speaker": "Jonsey",
+                    "text": "Well, you seem pretty chill.",
+                    "end": false
+                },
+                {
+                    "speaker": "Jonsey",
+                    "text": "Here, I&#39;ll give you this.",
+                    "end": false
+                },
+                {
+                    "speaker": "none",
+                    "text": "BOXI OBTAINED THE CHUG JUG!",
+                    "end": false
+                },
+                {
+                    "speaker": "Boxi",
+                    "text": "Uh, thank you…?",
+                    "end": true
+                }
+            ]
+        },
+        {
+            "scene": "5d",
+            "item": false,
+            "dialogue": [
+                {
+                    "speaker": "Boxi",
+                    "text": "Alright, let&#39;s go in.",
+                    "end": true
+                }
+            ]
+        }
+    ]
+}
