@@ -90,7 +90,7 @@
         {
             "scene": "11",
             "background": "drunkenclaminsidewithbrian.jpg",
-            "characters": [3]
+            "characters": [0, 3]
         },
         {
             "scene": "12",
@@ -115,32 +115,32 @@
         {
             "scene": "14",
             "background": "drunkenclaminside.png",
-            "characters": [3]
+            "characters": [0, 3]
         },
         {
             "scene": "15",
             "background": "drunkenclaminside.png",
-            "characters": [3]
+            "characters": [0, 3]
         },
         {
             "scene": "15a",
             "background": "drunkenclaminside.png",
-            "characters": [3]
+            "characters": [0, 3]
         },
         {
             "scene": "15b",
             "background": "drunkenclaminside.png",
-            "characters": [3]
+            "characters": [0, 3]
         },
         {
             "scene": "16",
             "background": "drunkenclaminside.png",
-            "characters": [3]
+            "characters": [0, 3]
         },
         {
             "scene": "17",
             "background": "drunkenclaminside.png",
-            "characters": [3]
+            "characters": [0, 3]
         },
         {
             "scene": "18",
