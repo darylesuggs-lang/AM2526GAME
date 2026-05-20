@@ -1,0 +1,112 @@
+
+[
+  {
+    "id": 1,
+    "name": "Swewie",
+    "hp": 10000,
+    "attackOne": "Cutaway Gag",
+    "attackTwo": "Griffin Special"
+  },
+  {
+    "id": 2,
+    "name": "Boxi",
+    "hp": 20,
+    "attackOne": "Boxi Bash",
+    "attackTwo": "Fire Wand"
+  },
+  {
+    "id": 3,
+    "name": "brain",
+    "hp": 20,
+    "attackOne": "Martini Drink",
+    "attackTwo": "Charge"
+  },
+   {
+    "id": 4,
+    "name": "Triple T",
+    "hp": 30,
+    "attackOne": "Triple Smash",
+    "attackTwo": "Batter Barrage"
+  },
+   {
+    "id": 5,
+    "name": "Sentient Letter B",
+    "hp": 35,
+    "attackOne": "B Crush",
+    "attackTwo": "B Heal"
+  },
+   {
+    "id": 6,
+    "name": "Freddy fazbear",
+    "hp": 25,
+    "attackOne": " hor hor hor hor",
+    "attackTwo": "Jumpscare "
+  }, {
+    "id": 7,
+    "name": "evil little green goblin",
+    "hp": 25,
+    "attackOne": "Nothin barrage ",
+    "attackTwo": "Tickle"
+  },
+  {
+    "id": 8,
+    "name": "Single colored Sphere",
+    "hp": 35,
+    "attackOne": "Spin ",
+    "attackTwo": "Find Circumference"
+  },
+  {
+"id": 9,
+    "name": "Agent 1"
+  },
+   {
+"id": 10,
+    "name": "Agent 2"
+  },
+   {
+"id": 11,
+    "name": "Paper"
+  },
+   {
+"id": 12,
+    "name": "Jonesy"
+  },
+  {
+    "id":13,
+    "name": "Steve"
+  },
+  {
+    "id":14,
+    "name": "Charizard ",
+    "hp": 25,
+    "attackOne": "Fire Ball"
+  },
+  {
+    "id":15,
+    "name": "Garfeild"
+  },
+  {
+    "id":16,
+    "name": "Homer"
+  },
+  {
+    "id":17,
+    "name": "Peter Griffin"
+  },
+  {
+    "id":18,
+    "name": "Sans undertale"
+  },
+  {
+    "id":19,
+    "name": "IShowSpeed "
+  },
+  {
+    "id":20,
+    "name": "SpongeBob "
+  },
+  {
+    "id":21,
+    "name": "Rodger american dad"
+  }
+]
