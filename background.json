@@ -1,0 +1,156 @@
+{
+    "backgrounds": [
+        {
+            "scene": "1",
+            "background": "boxi_hospital.png",
+            "characters": [2, 9, 10]
+        },
+        {
+            "scene": "2",
+            "background": "insidecar.jpg",
+            "characters": [2]
+        },
+        {
+            "scene": "3",
+            "background": "boxi_hospital.png",
+            "characters": [2, 9, 10]
+        },
+        {
+            "scene": "4",
+            "background": "boxi_hospital.png",
+            "characters": [2, 9, 10]
+        },
+        {
+            "scene": "4a",
+            "background": "boxi_hospital.png",
+            "characters": [2, 9, 10]
+        },
+        {
+            "scene": "4b",
+            "background": "boxi_hospital.png",
+            "characters": [2, 9, 10]
+        },
+        {
+            "scene": "5",
+            "background": "drunkenclamoutside.jpg",
+            "characters": [2, 12]
+        },
+        {
+            "scene": "6",
+            "background": "drunkenclaminside.png",
+            "characters": [2, 13]
+        },
+        {
+            "scene": "6mid",
+            "background": "drunkenclaminsidewithbrian.jpg",
+            "characters": [2, 3]
+        },
+        {
+            "scene": "7",
+            "background": "drunkenclaminsidewithbrian.jpg",
+            "characters": [2, 3]
+        },
+        {
+            "scene": "7a",
+            "background": "drunkenclaminsidewithbrian.jpg",
+            "characters": [2, 3]
+        },
+        {
+            "scene": "7b",
+            "background": "drunkenclaminsidewithbrian.jpg",
+            "characters": [2, 3]
+        },
+        {
+            "scene": "8",
+            "background": "drunkenclaminsidewithbrian.jpg",
+            "characters": [2, 3]
+        },
+        {
+            "scene": "8a",
+            "background": "drunkenclaminsidewithbrian.jpg",
+            "characters": [2, 3]
+        },
+         {
+            "scene": "8b",
+            "background": "drunkenclaminsidewithbrian.jpg",
+            "characters": [2, 3]
+        },
+        {
+            "scene": "9",
+            "background": "drunkenclaminsidewithbrian.jpg",
+            "characters": [2, 3]
+        },
+        {
+            "scene": "10",
+            "background": "inauguration.jpg",
+            "characters": [3, 1]
+        },
+        {
+            "scene": "11",
+            "background": "drunkenclaminsidewithbrian.jpg",
+            "characters": [3]
+        },
+        {
+            "scene": "12",
+            "background": "drunkenclaminsidewithbrian.jpg",
+            "characters": [2, 3]
+        },
+        {
+            "scene": "12a",
+            "background": "drunkenclaminsidewithbrian.jpg",
+            "characters": [2, 3]
+        },
+        {
+            "scene": "12b",
+            "background": "drunkenclaminsidewithbrian.jpg",
+            "characters": [2, 3]
+        },
+        {
+            "scene": "13",
+            "background": "drunkenclaminsidewithbrian.jpg",
+            "characters": [2, 3]
+        },
+        {
+            "scene": "14",
+            "background": "drunkenclaminside.png",
+            "characters": [3]
+        },
+        {
+            "scene": "15",
+            "background": "drunkenclaminside.png",
+            "characters": [3]
+        },
+        {
+            "scene": "15a",
+            "background": "drunkenclaminside.png",
+            "characters": [3]
+        },
+        {
+            "scene": "15b",
+            "background": "drunkenclaminside.png",
+            "characters": [3]
+        },
+        {
+            "scene": "16",
+            "background": "drunkenclaminside.png",
+            "characters": [3]
+        },
+        {
+            "scene": "17",
+            "background": "drunkenclaminside.png",
+            "characters": [3]
+        },
+        {
+            "scene": "18",
+            "background": "drunkenclaminside.png"
+        },
+        {
+            "scene": "19",
+            "background": "drunkenclamoutside.jpg"
+        },
+        {
+            "scene": "20",
+            "background": "citycenter.jpg"
+        }
+    ]
+}
