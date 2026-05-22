@@ -7,7 +7,7 @@ try {
         playerStats: { brianStartingHealth: 20 },
         friendshipThresholds: {
             MAX_FRIENDSHIP: 10,
-            MIN_FRIENDSHIP: 0
+            MIN_FRIENDSHIP: 1
         }
     };
 }
@@ -19,7 +19,6 @@ const brianState = {
         max: config.playerStats?.brianStartingHealth || 20,
         isAlive: true,
     },
-    inventory: [],
     location: 'start',
     friendship: 0,
     flags: {},
@@ -30,10 +29,8 @@ function resetBrianState() {
     brianState.health.current = config.playerStats?.brianStartingHealth || 20;
     brianState.health.max = config.playerStats?.brianStartingHealth || 20;
     brianState.health.isAlive = true;
-
-    brianState.inventory = [];
     brianState.location = 'start';
-    brianState.friendship = 0;
+    brianState.friendship = 5;
     brianState.flags = {};
 }
 
@@ -59,36 +56,6 @@ function heal(amount) {
 // Move Brian to a new location
 function setLocation(newLocation) {
     brianState.location = newLocation;
-}
-
-// Add item to Brian’s inventory
-function addItemToInventory(itemName, quantity = 1) {
-    const item = brianState.inventory.find(i => i.name === itemName);
-    if (item) {
-        item.quantity += quantity;
-    } else {
-        brianState.inventory.push({ name: itemName, quantity });
-    }
-}
-
-// Remove item from Brian’s inventory
-function removeItemFromInventory(itemName, quantity = 1) {
-    const index = brianState.inventory.findIndex(i => i.name === itemName);
-    if (index === -1) return false;
-
-    const item = brianState.inventory[index];
-    if (item.quantity <= quantity) {
-        brianState.inventory.splice(index, 1);
-    } else {
-        item.quantity -= quantity;
-    }
-    return true;
-}
-
-// Check if Brian has an item
-function hasInventoryItem(itemName, quantity = 1) {
-    const item = brianState.inventory.find(i => i.name === itemName);
-    return item && item.quantity >= quantity;
 }
 
 // Friendship system for Brian

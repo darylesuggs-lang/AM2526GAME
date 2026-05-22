@@ -47,5 +47,18 @@
       "onUse": "unlockThirdPath",
       "tags": ["quest"]
     }
+    ,
+    {
+      "id": "ChugJug",
+      "name": "Chug Jug",
+      "description": "A legendary drink that fully restores you and your party to full health.",
+      "type": "consumable",
+      "stackable": true,
+      "maxStack": 2,
+      "icon": "assets/items/chug_jug.png",
+      "healAmount": "fullParty",
+      "onUse": "useChugJug",
+      "tags": ["food", "healing", "party"]
+    }
   ]
 }
